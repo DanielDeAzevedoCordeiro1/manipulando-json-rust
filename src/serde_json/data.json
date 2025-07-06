@@ -7,7 +7,7 @@
       "profissao": "Desenvolvedora",
       "cidade": "São Paulo",
       "salario": 8500.00,
-      "ativo": true,
+      "status": true,
       "telefone": "(11) 99999-1234",
       "endereco": {
         "rua": "Rua das Flores, 123",
