@@ -1,4 +1,4 @@
-# Lab - Processamento de Dados JSON com Rust
+# Lab - Processando JSON (Serializacao e Descerializacao) com serde_json
 
 Um projeto simples em Rust que demonstra como processar dados JSON usando a biblioteca `serde_json`.
 
@@ -21,7 +21,7 @@ Este projeto lê dados de uma pessoa em formato JSON e extrai informações espe
 
 2. **Clone o repositório**:
    ```bash
-   git clone <https://github.com/DanielDeAzevedoCordeiro1/manipulando-json-rust>
+   git clone https://github.com/DanielDeAzevedoCordeiro1/manipulando-json-rust
    cd lab
    ```
 
